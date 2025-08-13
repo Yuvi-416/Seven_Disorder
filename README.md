@@ -1,4 +1,4 @@
-# TabTransformer-GPR: Hybrid Brain-Age Prediction Model for Neuroimaging Data
+# Hybrid Brain-Age Prediction Model for Neuroimaging Data
 
 ## Overview
 This repository hosts the **trained TabTransformer-GPR model** for brain-age prediction using structural MRI-derived morphometric features. The model was designed to address limitations in existing brain-age models by combining:
